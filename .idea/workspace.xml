@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f2406b7-f4cc-4400-a936-30f344211434" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XyX7RlZK2EERFoJ89DS4NHppmh" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/junit-jupiter-api-5.6.0.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jav.Task_7" />
+      <recent name="test.Task_5" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\benuk\IdeaProjects\com.gmail.benuk\src\jav" />
+      <recent name="C:\Users\benuk\IdeaProjects\com.gmail.benuk\src\test" />
+      <recent name="C:\Users\benuk\IdeaProjects\com.gmail.benuk\src\java\Task_5" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MainNumberInWords">
+    <configuration name="MainFibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jav.Task_8.MainFibonacci" />
+      <module name="com.gmail.benuk" />
+      <option name="PROGRAM_PARAMETERS" value="5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jav.Task_8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainNumberInWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jav.Task_5.MainNumberInWords" />
+      <module name="com.gmail.benuk" />
+      <option name="PROGRAM_PARAMETERS" value="15123684268745" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jav.Task_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainNumberSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jav.Task_7.MainNumberSequence" />
+      <module name="com.gmail.benuk" />
+      <option name="PROGRAM_PARAMETERS" value="100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jav.Task_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckBigIntegerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.gmail.benuk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.Task_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.Task_5" />
+      <option name="MAIN_CLASS_NAME" value="test.Task_5.CheckBigIntegerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FillWordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.gmail.benuk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.Task_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.Task_5" />
+      <option name="MAIN_CLASS_NAME" value="test.Task_5.FillWordTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NaturalNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.gmail.benuk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.Task_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.Task_7" />
+      <option name="MAIN_CLASS_NAME" value="test.Task_7.NaturalNumbersTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainNumberInWords" />
+      <item itemvalue="Application.MainFibonacci" />
+      <item itemvalue="Application.MainNumberSequence" />
+      <item itemvalue="JUnit.FillWordTest" />
+      <item itemvalue="JUnit.CheckBigIntegerTest" />
+      <item itemvalue="JUnit.NaturalNumbersTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainNumberInWords" />
+        <item itemvalue="Application.MainNumberSequence" />
+        <item itemvalue="JUnit.NaturalNumbersTest" />
+        <item itemvalue="Application.MainFibonacci" />
+        <item itemvalue="JUnit.CheckBigIntegerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f2406b7-f4cc-4400-a936-30f344211434" name="Default Changelist" comment="" />
+      <created>1582019140829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582019140829</updated>
+      <workItem from="1582019144815" duration="6292000" />
+      <workItem from="1582034490475" duration="2918000" />
+      <workItem from="1582040013005" duration="5369000" />
+      <workItem from="1582054144013" duration="5982000" />
+      <workItem from="1582101502837" duration="15328000" />
+      <workItem from="1582126104181" duration="5035000" />
+      <workItem from="1582151041995" duration="760000" />
+      <workItem from="1582216023157" duration="708000" />
+      <workItem from="1582449364960" duration="901000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
